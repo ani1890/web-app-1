@@ -23,7 +23,7 @@ login_page = st.Page(login, title="Log in", icon=":material/login:")
 logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
 
 dashboard = st.Page(
-    "reports/hardword.py", title="Hardword Learner App", icon=":material/dashboard:", default=True
+    "reports/Hardword.py", title="Hardword Learner App", icon=":material/dashboard:", default=True
 )
 tables = st.Page("reports/tables.py", title="Math Tables", icon=":material/bug_report:")
 calculation = st.Page(
