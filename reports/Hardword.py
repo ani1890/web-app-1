@@ -1,4 +1,5 @@
 import streamlit as st
+from gtts import gTTS
 from io import BytesIO
 
 st.title("Hardword Learner App")
