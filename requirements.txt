@@ -1,0 +1,5 @@
+streamlit==1.43.2
+streamlit-authenticator==0.4.2
+streamlit_TTS==0.0.7
+extra-streamlit-components==0.1.71
+gTTS==2.5.4
